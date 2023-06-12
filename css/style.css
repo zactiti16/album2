@@ -1,0 +1,45 @@
+body {
+margin: 0;
+padding: 0;
+border: 0;
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-color:  rgb(255, 187, 0);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    height: 50px;
+    padding-top: 25px;
+    color: rgb(255, 187, 0);
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
